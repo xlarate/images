@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "id": 1,
       "url": "https://raw.githubusercontent.com/xlarate/images/main/git_images/med_res/med_img1.jpg"
@@ -40,5 +39,4 @@
       "id": 10,
       "url": "https://raw.githubusercontent.com/xlarate/images/main/git_images/med_res/med_img10.jpg"
     }
-  ]
-}
+]
